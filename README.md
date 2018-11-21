@@ -1,2 +1,3 @@
 # hello-world
-just  practice
+just  practice.
+hello everyone，i like code.
